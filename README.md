@@ -25,9 +25,12 @@ The NLTK Query Experimentation project provides an interactive framework for exp
 1. **Set Up Your Environment with Nix**
 
    Make sure you have Nix and flakes enabled on your system. (See https://nixos.wiki/wiki/Flakes)
+   
    The nix flake provided includes all project dependencies, including python and the required external libraries.
 
-2. **Clone the Repository**
+   
+
+3. **Clone the Repository**
 
    ```bash
    git clone https://github.com/Surf-Wax/Natural-Language-Processing.git
@@ -39,13 +42,16 @@ The NLTK Query Experimentation project provides an interactive framework for exp
 
    Now you're ready to run the script!
 
+  **NOTE**: If you're using VSCode and you're getting 'Select Interpreter' message, run `which python` in the dev shell, copy the output path. Select interpreter-> Enter interpreter path -> Paste the output path. 
+
 ### Without Nix
 
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/Surf-Wax/Natural-Language-Processing.git
-   cd Natural-Language-Processing```
+   cd Natural-Language-Processing
+   ```
 
 2. **Set Up Your Environment**
 
