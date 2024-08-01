@@ -101,4 +101,8 @@ The NLTK Query Experimentation project provides an interactive framework for exp
    Feel free to contribute to this project by submitting issues or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
+<<<<<<< HEAD
    For any questions or comments, please reach out to thorpebryce@gmail.com.
+=======
+   For any questions or comments, please reach out to thorpebryce@gmail.com.
+>>>>>>> 265abc6 (adding README.md)
